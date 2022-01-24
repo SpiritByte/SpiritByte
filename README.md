@@ -21,8 +21,7 @@ I’m Alex, a creative coder who loves to explore the programming world.
 ![](https://img.shields.io/badge/Code-Lua-informational?style=flat&logo=lua&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-HTTP-informational?style=flat&logo=TypeScript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=SQL&logoColor=white&color=4AB197)
-
+![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=mySQL&logoColor=white&color=4AB197)
 <details>
 <summary>More Skills</summary>
 <br>
@@ -51,7 +50,7 @@ I’m Alex, a creative coder who loves to explore the programming world.
 >
 > <p>- Angela Martin</p>
 
-_Quote requested from [The Office API](https://www.officeapi.dev/)
+_Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 Check back at the top of the hour for a new quote!
 
