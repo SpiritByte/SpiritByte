@@ -46,9 +46,9 @@ I’m Alex, a creative coder who loves to explore the programming world.
 
 ## 📣 How about an Office quote before you go?
 
-> If you pray enough, you can change yourself into a cat person.
->
-> <p>- Angela Martin</p>
+<p>{office_quote}</p>
+
+<p>{office_character}</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
