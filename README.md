@@ -1,6 +1,7 @@
 [![Visits Badge](https://badges.pufler.dev/visits/braydoncoyer/braydoncoyer)](https:RedNaxela.com)
+[![Discord Badge](https://img.shields.io/badge/Discord-Profile-informational?style=flat&logo=discord&logoColor=white&color=0D76A8)](https://discord.gg/uPMDsZkguT)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/OmegaUltraChad)
-[![Discord Badge](https://img.shields.io/badge/Discord-Profile-informational?style=flat&logo=discord&logoColor=white&color=0D76A8)]()
+[![Reddit Badge](https://img.shields.io/badge/Reddit-Profile-informational?style=flat&logo=discord&logoColor=white&color=0D76A8)](https://www.reddit.com/user/VoydYouTube)
 
 Hey there 👋
 
@@ -16,7 +17,7 @@ I’m Alex, a creative coder who loves to explore the programming world.
 
 ## 💼 Skills
 
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=angular&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Python3-informational?style=flat&logo=angular&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Lua-informational?style=flat&logo=ionic&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-HTTP-informational?style=flat&logo=TypeScript&logoColor=white&color=4AB197)
