@@ -8,14 +8,14 @@ Hey there 👋
 I’m Alex, a creative coder who loves to explore the programming world.
 
 
-## 📌 Pinned Repositories
+## 「📌」 Pinned Repositories
 
 <br>
 
 <br>
 <br>
 
-## 📈 GitHub Stats
+## 「📈」 GitHub Stats
 
 <br>
 
@@ -27,7 +27,7 @@ I’m Alex, a creative coder who loves to explore the programming world.
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=SpiritByte&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="SpiritByte's GitHub Stats" />
 </a>
 
-## 💼 Skills
+## 「💼」 Skills
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Lua-informational?style=flat&logo=lua&logoColor=white&color=4AB197)
@@ -56,7 +56,7 @@ I’m Alex, a creative coder who loves to explore the programming world.
 
 <br>
 
-## 📣 How about an Office quote before you go?
+## 「📣」 How about an Office quote before you go?
 
 <p>{office_quote}</p>
 
