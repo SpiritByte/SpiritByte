@@ -15,6 +15,18 @@ I’m Alex, a creative coder who loves to explore the programming world.
 <br>
 <br>
 
+## 📈 GitHub Stats
+
+<br>
+
+<a href="https://github.com/SpiritByte">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpiritByte&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/SpiritByte">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=SpiritByte&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="SpiritByte's GitHub Stats" />
+</a>
+
 ## 💼 Skills
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=4AB197)
