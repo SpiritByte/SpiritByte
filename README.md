@@ -15,7 +15,7 @@ I’m Alex, a creative coder who loves to explore the programming world.
 <br>
 <br>
 
-## 「 📈 」 GitHub Stats
+## 「 📈 」 GitHub Stats
 
 <br>
 
