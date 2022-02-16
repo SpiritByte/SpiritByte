@@ -7,7 +7,7 @@ Hey there 👋
 
 I’m Alex, a creative coder who loves to explore the programming world.
 
-[Check out the website I made!](https://spiritbyte.github.io/)
+[Check out this website I made!](https://spiritbyte.github.io/)
 
 ## 「📌」 Pinned Repositories
 
@@ -69,4 +69,4 @@ Check back at the top of the hour for a new quote!
 
 <br>
 
-[Check out the website I made!](https://spiritbyte.github.io/)
+[Check out this website I made!](https://spiritbyte.github.io/)
