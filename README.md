@@ -1,4 +1,3 @@
-[![Visits Badge](https://badges.pufler.dev/visits/braydoncoyer/braydoncoyer)](https:RedNaxela.com)
 [![Discord Badge](https://img.shields.io/badge/Discord-Profile-informational?style=flat&logo=discord&logoColor=white&color=0D76A8)](https://discord.com)
 [![Reddit Badge](https://img.shields.io/badge/Reddit-Profile-informational?style=flat&logo=reddit&logoColor=white&color=0D76A8)](https://www.reddit.com)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com)
@@ -57,15 +56,9 @@ I’m Alex, a creative coder who loves to explore the programming world.
 
 <br>
 
-## 「📣」 How about an Office quote before you go?
+## 「📣」 The quote that inspires me the most
 
-<p>{office_quote}</p>
-
-<p>{office_character}</p>
-
-_Quote requested from [The Office API](https://www.officeapi.dev/)_
-
-Check back at the top of the hour for a new quote!
+<p>“There is nothing in a caterpillar that tells you it's going to be a butterfly.” ― R. Buckminster Fuller.</p>
 
 <br>
 
