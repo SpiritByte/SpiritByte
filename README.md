@@ -105,12 +105,15 @@
 <br/><br/><br/><br/><br/><br/>
 
 <h2 align="center">「📣」 The quote that inspires me the most </h2>
-
+<div align="center">
 <p>“There is nothing in a caterpillar that tells you it's going to be a butterfly.” ― R. Buckminster Fuller.</p>
+</div>
 
 <br>
 <div align="center">
+  
 [Check out this website I made!](https://spiritbyte.github.io/)
+  
 </div>
 
 <br><br>
