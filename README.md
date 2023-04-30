@@ -2,7 +2,7 @@
 [![Reddit Badge](https://img.shields.io/badge/Reddit-Profile-informational?style=flat&logo=reddit&logoColor=white&color=0D76A8)](https://www.reddit.com)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com)
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=SpiritByte.visitor-badge">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=SpiritByte.451245240">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
