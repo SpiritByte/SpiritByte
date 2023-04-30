@@ -67,7 +67,11 @@
   
 </div>
 <details>
+  
+<h1 align="center">
 <summary>More Skills</summary>
+</h1>
+  
 <br>
   
 <div align="center">
