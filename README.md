@@ -8,14 +8,6 @@ I’m Alex, a creative coder who loves to explore the programming world.
 
 [Check out this website I made!](https://spiritbyte.github.io/)
 
-## 「📌」 Pinned Repositories
-
-<br>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/SpiritByte/JourneyMate" title="JourneyMate"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=SpiritByte&repo=JourneyMate&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/SpiritByte/Turner-Fenton-SAC" title="Turner-Fenton-SAC"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=SpiritByte&repo=Turner-Fenton-SAC&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-
 ## 「 📈 」 GitHub Stats
 
 <br>
@@ -69,6 +61,14 @@ I’m Alex, a creative coder who loves to explore the programming world.
 </details>
 
 <br>
+
+## 「📌」 Pinned Repositories
+
+<br>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/SpiritByte/JourneyMate" title="JourneyMate"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=SpiritByte&repo=JourneyMate&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/SpiritByte/Turner-Fenton-SAC" title="Turner-Fenton-SAC"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=SpiritByte&repo=Turner-Fenton-SAC&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
 
 ## 「📣」 The quote that inspires me the most
 
