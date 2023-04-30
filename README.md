@@ -27,7 +27,7 @@
   <br>
   📚 I’m currently practicing for the 2023 CCC
   <br>
-  💬 Ask me anything by opening an <a href="https://github.com/SpiritByte/SpiritByte/issues" title="issue">here</a>
+  💬 Ask me anything by opening an issue <a href="https://github.com/SpiritByte/SpiritByte/issues" title="Issue">here</a>
   <br>
   📫 How to reach me: <a href="mailto: alexanderli@hotmail.ca">alexanderli@hotmail.ca</a>
 </p>
