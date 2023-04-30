@@ -68,9 +68,9 @@
 </div>
 <details>
   
-<h1 align="center">
-<summary>More Skills</summary>
-</h1>
+
+<summary align="center">More Skills</summary>
+
   
 <br>
   
