@@ -63,8 +63,8 @@
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=0D76A8)
 ![](https://img.shields.io/badge/Code-Lua-informational?style=flat&logo=lua&logoColor=white&color=0D76A8)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=0D76A8)
-![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=TypeScript&logoColor=white&color=0D76A8)
-![](https://img.shields.io/badge/Code-BAT-informational?style=flat&logo=mySQL&logoColor=white&color=0D76A8)
+![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=HTML&logoColor=white&color=0D76A8)
+![](https://img.shields.io/badge/Code-BAT-informational?style=flat&logo=BAT&logoColor=white&color=0D76A8)
   
 </div>
 <details>
