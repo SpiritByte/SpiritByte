@@ -3,6 +3,7 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com)
 
 <img src="https://visitor-badge.glitch.me/badge?page_id=page.id" alt="SpiritByte"/>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=SpiritByte">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
