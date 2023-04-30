@@ -3,8 +3,6 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=0D76A8)](https://twitter.com)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=0D76A8)](https://instagram.com)
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=SpiritByte">
-
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Alexander+Li....;Nice+to+meet+you!&center=true&size=30">
@@ -29,7 +27,7 @@
   <br>
   📫 How to reach me: <a href="mailto: alexanderli@hotmail.ca">alexanderli@hotmail.ca</a>
 </p>
-<br><br>
+<br>
 
 <h2 align="center">「 📈 」 GitHub Stats </h2>
 
@@ -98,3 +96,7 @@
 <br>
 
 [Check out this website I made!](https://spiritbyte.github.io/)
+
+<br><br>
+
+<img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=SpiritByte">
