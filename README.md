@@ -2,11 +2,39 @@
 [![Reddit Badge](https://img.shields.io/badge/Reddit-Profile-informational?style=flat&logo=reddit&logoColor=white&color=0D76A8)](https://www.reddit.com)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com)
 
-Hey there 👋
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=SpiritByte.SpiritByte">
 
-I’m Alex, a creative coder who loves to explore the programming world.
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Alexander+Li....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 
-[Check out this website I made!](https://spiritbyte.github.io/)
+<h5 align="center">
+  <code><a href="https://www.linkedin.com/in/osmandurdag/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
+  <code><a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
+  <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+</h5>
+<br>
+<p align="center">
+  Hi, I'm Osman DURDAĞ, Research Assistant & Computer Engineer & Software Developer from Turkey
+  <br>
+  <br>
+  🔬 I'm currently studying for a master's degree in Atatürk University Computer Engineering Department
+  <br>
+  🎓 I graduated from Black Sea Technical University Computer Engineering Department
+  <br>
+  🎓 I graduated from Erzurum İbrahim Hakkı Science High School
+  <br>
+  💻 I love writing code and learn anythings about it
+  <br>
+  📚 I’m currently learning how to build E-Commerce Website with Django
+  <br>
+  💬 Ask me anything about from <a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a>
+  <br>
+  📫 How to reach me: <a href="mailto: osmandurdag@hotmail.com">osmandurdag@hotmail.com</a>
+</p>
 
 ## 「 📈 」 GitHub Stats
 
