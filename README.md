@@ -33,6 +33,7 @@
   <br>
   📫 How to reach me: <a href="mailto: osmandurdag@hotmail.com">osmandurdag@hotmail.com</a>
 </p>
+<br><br><br>
 
 <h2 align="center">「 📈 」 GitHub Stats </h2>
 
@@ -56,8 +57,6 @@
   
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=SpiritByte&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
-
-<hr>
 
 <h2 align="center">「💼」 Skills </h2>
 
