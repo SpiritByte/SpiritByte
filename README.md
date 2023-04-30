@@ -34,7 +34,7 @@
   📫 How to reach me: <a href="mailto: osmandurdag@hotmail.com">osmandurdag@hotmail.com</a>
 </p>
 
-## 「 📈 」 GitHub Stats
+<h2 align="center">「 📈 」 GitHub Stats </h2>
 
 <br>
 <p align=center>
@@ -59,7 +59,7 @@
 
 <hr>
 
-## 「💼」 Skills
+<h2 align="center">「💼」 Skills </h2>
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Lua-informational?style=flat&logo=lua&logoColor=white&color=4AB197)
@@ -88,7 +88,7 @@
 
 <br>
 
-## 「📌」 Pinned Repositories
+<h2 align="center">「📌」 Pinned Repositories </h2>
 
 <br>
 <div width="100%" align="center">
@@ -96,7 +96,7 @@
 </div>
 <br/><br/><br/><br/><br/><br/>
 
-## 「📣」 The quote that inspires me the most
+<h2 align="center">「📣」 The quote that inspires me the most </h2>
 
 <p>“There is nothing in a caterpillar that tells you it's going to be a butterfly.” ― R. Buckminster Fuller.</p>
 
