@@ -18,7 +18,7 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Alexander Li, an aspiring computer programmist from Ontario
+  Hi, I'm Alexander Li, an aspiring computer programmer from Ontario
   <br>
   <br>
   🏫 I'm currently in high school, studying under the IB program
