@@ -85,9 +85,9 @@
 
 <br>
   
-![](https://img.shields.io/badge/Tools-visualstudiocode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=0D76A8)
+![](https://img.shields.io/badge/Tools-VisualStudioCode-informational?style=flat&logo=VisualStudioCode&logoColor=white&color=0D76A8)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=0D76A8)
-![](https://img.shields.io/badge/Tools-blender-informational?style=flat&logo=blender&logoColor=white&color=0D76A8)
+![](https://img.shields.io/badge/Tools-Blender-informational?style=flat&logo=Blender&logoColor=white&color=0D76A8)
 ![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&color=0D76A8)
   
 </div>
