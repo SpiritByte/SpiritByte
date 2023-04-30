@@ -16,24 +16,20 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Osman DURDAĞ, Research Assistant & Computer Engineer & Software Developer from Turkey
+  👋 Hi, I'm Alexander Li, an aspiring computer programmist from Ontario
   <br>
   <br>
-  🔬 I'm currently studying for a master's degree in Atatürk University Computer Engineering Department
+  🏫 I'm currently in high school, studying under the IB program
   <br>
-  🎓 I graduated from Black Sea Technical University Computer Engineering Department
+  💻 I love programing in my free time and learning new things
   <br>
-  🎓 I graduated from Erzurum İbrahim Hakkı Science High School
+  📚 I’m currently practicing for the 2023 CCC
   <br>
-  💻 I love writing code and learn anythings about it
+  💬 Ask me anything about from <a href="https://github.com/SpiritByte/SpiritByte/issues" title="Issues">here</a>
   <br>
-  📚 I’m currently learning how to build E-Commerce Website with Django
-  <br>
-  💬 Ask me anything about from <a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a>
-  <br>
-  📫 How to reach me: <a href="mailto: osmandurdag@hotmail.com">osmandurdag@hotmail.com</a>
+  📫 How to reach me: <a href="mailto: alexanderli@hotmail.ca">alexanderli@hotmail.ca</a>
 </p>
-<br><br><br>
+<br><br>
 
 <h2 align="center">「 📈 」 GitHub Stats </h2>
 
