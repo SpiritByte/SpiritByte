@@ -104,7 +104,7 @@
 </div>
 <br/><br/><br/><br/><br/><br/>
 
-<h2 align="center">「📣」 The quote that inspires me the most </h2>
+<h2 align="center">「📣」 My Inspirational Quote </h2>
 <div align="center">
 <p>“There is nothing in a caterpillar that tells you it's going to be a butterfly.” ― R. Buckminster Fuller.</p>
 </div>
