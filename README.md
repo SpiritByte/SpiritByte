@@ -114,4 +114,8 @@
 
 <br><br>
 
-<img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=SpiritByte">
+<div align="center">
+
+<a href="https://visitorbadge.io/status?path=SpiritByte"><img src="https://api.visitorbadge.io/api/visitors?path=SpiritByte&countColor=%230d76a8&style=plastic" /></a>
+  
+</div>
