@@ -25,7 +25,7 @@
   <br>
   💻 I love programing in my free time and learning new things
   <br>
-  📚 I’m currently practicing for the 2023 CCC
+  👨‍💻 I’m currently practicing for the 2023 CCC
   <br>
   💬 Ask me anything by opening an issue <a href="https://github.com/SpiritByte/SpiritByte/issues" title="Issue">here</a>
   <br>
