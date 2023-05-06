@@ -110,16 +110,9 @@
 ![](https://github-profile-trophy.vercel.app/?username=SpiritByte&theme=discord&no-frame=true&no-bg=true&margin-w=4)
   
 </div>
-<h2 align="center">「📣」 Random Quote </h2>
+<h2 align="center">「📣」 Quote Of The Century </h2>
 <div align="center">
 <p>“There is nothing in a caterpillar that tells you it's going to be a butterfly.” ― R. Buckminster Fuller.</p>
-</div>
-<br>
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
 </div>
 <br>
 <div align="center">
