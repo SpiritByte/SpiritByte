@@ -104,9 +104,12 @@
 </div>
 <br/><br/><br/><br/><br/><br/>
 
-<h2 align="center">「📣」 My Inspirational Quote </h2>
+<h2 align="center">「🏆」 GitHub Trophies </h2>
+![](https://github-profile-trophy.vercel.app/?username=SpiritByte&theme=discord&no-frame=true&no-bg=true&margin-w=4)
+
+<h2 align="center">「📣」 Random Quote </h2>
 <div align="center">
-<p>“There is nothing in a caterpillar that tells you it's going to be a butterfly.” ― R. Buckminster Fuller.</p>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 </div>
 
 <br>
