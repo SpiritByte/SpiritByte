@@ -105,14 +105,17 @@
 <br/><br/><br/><br/><br/><br/>
 
 <h2 align="center">「🏆」 GitHub Trophies </h2>
+<div align="center">
 
 ![](https://github-profile-trophy.vercel.app/?username=SpiritByte&theme=discord&no-frame=true&no-bg=true&margin-w=4)
-
+  
+</div>
 <h2 align="center">「📣」 Random Quote </h2>
+<div align="center">
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-
+</div>
 <br>
 <div align="center">
   
