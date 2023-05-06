@@ -112,6 +112,11 @@
 </div>
 <h2 align="center">「📣」 Random Quote </h2>
 <div align="center">
+<p>“There is nothing in a caterpillar that tells you it's going to be a butterfly.” ― R. Buckminster Fuller.</p>
+</div>
+<br>
+
+<div align="center">
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
