@@ -113,7 +113,7 @@
 <h2 align="center">「📣」 Random Quote </h2>
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merco)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)
 
 </div>
 <br>
