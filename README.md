@@ -103,7 +103,7 @@
   
   <a align="left" href="https://github.com/SpiritByte/JourneyMate" title="JourneyMate"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=SpiritByte&repo=JourneyMate&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/SpiritByte/Turner-Fenton-SAC" title="Turner-Fenton-SAC"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=SpiritByte&repo=Turner-Fenton-SAC&theme=react&border_color=61dafb&border_radius=10"></a>
   <br/><br/><br/><br/><br/><br/><br/>
-  <a align="right" href="https://github.com/SpiritByte/HopeLink" title="HopeLink"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=SpiritByte&repo=HopeLink&theme=react&border_color=61dafb&border_radius=10"></a><a align="left" href="https://github.com/SpiritByte/SeatingAssignment" title="Seating Assignment"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=SpiritByte&repo=SeatingAssignment&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/SpiritByte/HopeLink" title="HopeLink"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=SpiritByte&repo=HopeLink&theme=react&border_color=61dafb&border_radius=10"></a><a align="left" href="https://github.com/SpiritByte/SeatingAssignment" title="SeatingAssignment"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=SpiritByte&repo=SeatingAssignment&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/>
 
