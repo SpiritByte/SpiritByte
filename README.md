@@ -23,9 +23,9 @@
   <br>
   🏆 Current achievements:
   <br>
-  - 5 Hackathons attended
+  5 Hackathons attended
   <br>
-  - AngelHacks 3.0 Best Game Mechanic winner
+  AngelHacks 3.0 Best Game Mechanic winner
   <br>
   <br>
   🏫 I'm currently in high school, studying under the IB program
