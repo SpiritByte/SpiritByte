@@ -20,7 +20,12 @@
 <p align="center">
   Hi, I'm Alexander Li, an aspiring computer programmer from Ontario
   <br>
-  🏆 Current achievements:<br>- 5 Hackathons attended<br>- AngelHacks 3.0 Best Game Mechanic winner
+  <br>
+  🏆 Current achievements:
+  <br>
+  - 5 Hackathons attended
+  <br>
+  - AngelHacks 3.0 Best Game Mechanic winner
   <br>
   <br>
   🏫 I'm currently in high school, studying under the IB program
