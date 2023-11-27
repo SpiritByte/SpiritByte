@@ -129,7 +129,7 @@
 <br>
 <div align="center">
   
-[Check out this website I made!](https://spiritbyte.github.io/)
+[Check out this website I made!](https://alexanderli.rf.gd/)
   
 </div>
 
