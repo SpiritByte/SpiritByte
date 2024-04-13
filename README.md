@@ -35,7 +35,7 @@
   <br>
   🏫 I'm currently in high school, studying under the IB program
   <br>
-  💻 I love programing in my free time and learning new things
+  💻 I love playing Chess in my free time and learning new things
   <br>
   👨‍💻 I’m currently grinding math and physics 😅
   <br>
