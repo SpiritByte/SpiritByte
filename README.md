@@ -36,7 +36,7 @@
   <br>
   💻 I love programing in my free time and learning new things
   <br>
-  👨‍💻 I’m currently practicing for my chemistry test 😅
+  👨‍💻 I’m currently grinding math and physics 😅
   <br>
   💬 Ask me anything by opening an issue <a href="https://github.com/SpiritByte/SpiritByte/issues" title="Issue">here</a>
   <br>
