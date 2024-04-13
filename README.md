@@ -78,7 +78,6 @@
 </div>
 <details>
   
-
 <summary align="center">More Skills</summary>
 
   
