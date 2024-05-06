@@ -23,13 +23,16 @@
   <br>
   🏆 Current achievements:
   <br>
-  7+ Hackathons attended
+  8+ Hackathons attended
   <br>
   AngelHacks 3.0 Best Game Mechanic winner
   <br>
   RythmHacks 1st Place Overall
   <br>
   Mayfield Hacks Most Creative & Individual First Place
+  <br>
+  <br>
+  WolfHacks 3rd Place Overall
   <br>
   <br>
   🏫 I'm currently in high school, studying under the IB program
