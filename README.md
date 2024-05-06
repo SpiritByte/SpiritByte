@@ -31,7 +31,6 @@
   <br>
   Mayfield Hacks Most Creative & Individual First Place
   <br>
-  <br>
   WolfHacks 3rd Place Overall
   <br>
   <br>
