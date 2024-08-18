@@ -23,7 +23,7 @@
   <br>
   🏆 Current achievements:
   <br>
-  8+ Hackathons attended
+  10+ Hackathons attended
   <br>
   AngelHacks 3.0 Best Game Mechanic winner
   <br>
