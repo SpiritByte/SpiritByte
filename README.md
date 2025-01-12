@@ -23,7 +23,7 @@
   <br>
   🏆 Current achievements:
   <br>
-  10+ Hackathons attended
+  15+ Hackathons attended
   <br>
   AngelHacks 3.0 Best Game Mechanic winner
   <br>
@@ -31,9 +31,13 @@
   <br>
   Mayfield Hacks Most Creative & Individual First Place
   <br>
+  DeltaHacks X 1st Place Overall
+  <br>
   WolfHacks 3rd Place Overall
   <br>
   Ignition Hacks v.4 2nd Place Overall
+  <br>
+  Hack The Valley 9 Best Use of AI/ML
   <br>
   <br>
   🏫 I'm currently in high school, studying under the IB program
