@@ -13,31 +13,32 @@
 
 </div>
 
-<h5 align="center">
-
-</h5>
 <br>
 <p align="center">
   Hi, I'm Alexander Li, an aspiring software engineer from Ontario
   <br>
   <br>
-  🏆 Current achievements:
+  🏆 <b>Hackathon Achievements:</b>
   <br>
-  15+ Hackathons attended
+  <b>1st Place Overall</b> - Formula Null (UW ’25) 🏎️
   <br>
-  AngelHacks 3.0 Best Game Mechanic winner
+  <b>1st Place Overall</b> - DeltaHacks X (McMaster ’24)
   <br>
-  RythmHacks 1st Place Overall
+  <b>1st Place Overall</b> - RythmHacks (UW ’23)
   <br>
-  Mayfield Hacks Most Creative & Individual First Place
+  <b>1st Place Overall</b> - Mayfield Hacks (’23)
   <br>
-  DeltaHacks X 1st Place Overall
+  <b>2nd Place Overall</b> - Ignition Hacks v.4 (’24)
   <br>
-  WolfHacks 3rd Place Overall
+  <b>3rd Place Overall</b> - WolfHacks (’24)
   <br>
-  Ignition Hacks v.4 2nd Place Overall
+  <b>Best AR/VR</b> - Incubator Hacks (’24)
   <br>
-  Hack The Valley 9 Best Use of AI/ML
+  <b>Best Use of AI/ML</b> - Hack The Valley 9 (’24)
+  <br>
+  <b>Best Game Mechanic</b> - AngelHacks 3.0 (’23)
+  <br>
+  <i>Participated in 20+ Hackathons total</i>
   <br>
   <br>
   🏫 I'm currently in high school, studying under the IB program
@@ -140,7 +141,7 @@
 <br>
 <div align="center">
   
-[Check out this website I made!]()
+[Check out my latest projects!](http://alexanderli.rf.gd)
   
 </div>
 
