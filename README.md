@@ -41,11 +41,11 @@
   <i>Participated in 20+ Hackathons total</i>
   <br>
   <br>
-  🏫 I'm currently in high school, studying under the IB program
+  🏫 I'm currently studying Computer Science + Finance at the University of Waterloo
   <br>
   💻 I love playing Chess in my free time and learning new things
   <br>
-  👨‍💻 I’m currently grinding math and physics 😅
+  👨‍💻 I’m currently working on some super cool side projects!
   <br>
   💬 Ask me anything by opening an issue <a href="https://github.com/SpiritByte/SpiritByte/issues" title="Issue">here</a>
   <br>
